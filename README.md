@@ -19,6 +19,9 @@ npx skills add Aradotso/trending-skills --skill lightpanda-browser
 | Skill | skills.sh | Source | Date |
 |-------|-----------|--------|------|
 | [lightpanda-browser](skills/lightpanda-browser/) | [install](https://skills.sh/aradotso/trending-skills/lightpanda-browser) | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 2026-03-15 |
+| [emil-design-eng](skills/emil-design-eng/) | [install](https://skills.sh/aradotso/trending-skills/emil-design-eng) | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 2026-07-09 |
+| [review-animations](skills/review-animations/) | [install](https://skills.sh/aradotso/trending-skills/review-animations) | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 2026-07-09 |
+| [animation-vocabulary](skills/animation-vocabulary/) | [install](https://skills.sh/aradotso/trending-skills/animation-vocabulary) | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 2026-07-09 |
 | [gstack-workflow-assistant](skills/gstack-workflow-assistant/) | [install](https://skills.sh/aradotso/trending-skills/gstack-workflow-assistant) | [garrytan/gstack](https://github.com/garrytan/gstack) | 2026-03-15 |
 | [openclaw-config](skills/openclaw-config/) | [install](https://skills.sh/aradotso/trending-skills/openclaw-config) | — | — |
 | [openclaw-control-center](skills/openclaw-control-center/) | [install](https://skills.sh/aradotso/trending-skills/openclaw-control-center) | [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) | 2026-03-15 |
